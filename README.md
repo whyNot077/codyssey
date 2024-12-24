@@ -1,2 +1,3 @@
 # codyssey
 
+jupyter notebook
